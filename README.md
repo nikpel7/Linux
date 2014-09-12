@@ -1,0 +1,4 @@
+Linux
+=====
+
+basic Linux configuration
